@@ -55,6 +55,22 @@ This app holds business records and staff information, so security was a design 
 
 **Timeline:** discovery began in May 2026; the core app was live within weeks, and features were added in response to team feedback through the summer.
 
+## Screenshots
+
+*Taken from the live app. Staff names and the client's branding have been covered.*
+
+| Home & team message board | Asset detail & compliance documents |
+|---|---|
+| ![Home](screenshots/home.png) | ![Asset detail](screenshots/asset.png) |
+
+| Delivery calendar | Staff time off |
+|---|---|
+| ![Delivery calendar](screenshots/schedule.png) | ![Time off](screenshots/time-off.png) |
+
+| Firewood inventory | Parts & supplies |
+|---|---|
+| ![Inventory](screenshots/inventory.png) | ![Parts & supplies](screenshots/supplies.png) |
+
 ---
 
 **Built by Dan Thompson**
